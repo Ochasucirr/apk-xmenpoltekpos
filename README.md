@@ -1,4 +1,4 @@
-# task-submitter
+# X-Mentor
 
 X-Mentor merupakan aplikasi berbasis web yang dapat digunakan sebagai media pengumpulan tugas yang diberikan mentor kepada x-mentor (dalam ruang lingkup UKM Lembaga Dakwah Kampus Poltekpos dengan kerja sama antara Poltekpos)
 
