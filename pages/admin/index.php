@@ -57,7 +57,7 @@ if ($_SESSION['role'] != "Admin") {
     <div class="app-container app-theme-white body-tabs-shadow fixed-sidebar fixed-header">
         <div class="app-header header-shadow">
             <div class="app-header__logo">
-                <div class="logo-src"><a href="index.php">Anjing</a></div>
+                <div class="logo-src"><a href="index.php">Ocha Benci Aldo</a></div>
                 <div class="header__pane ml-auto">
                     <div>
                         <button type="button" class="hamburger close-sidebar-btn hamburger--elastic" data-class="closed-sidebar">
